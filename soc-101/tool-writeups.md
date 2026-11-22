@@ -3,7 +3,9 @@
 ### Sublime (Ubuntu) 
 
 Section: Lab Setup 
+
 Purpose: Text editor
+
 Commands and Settings I used: 
 `sudo snap install sublime-text --classic`
 
